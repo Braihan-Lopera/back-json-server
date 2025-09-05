@@ -1,0 +1,48 @@
+{
+    "usuarios": [
+        {"id": 1, "correo": "usuario1@email.com", "contraseña": "pass1", "nombre": "Juan Pérez"},
+        {"id": 2, "correo": "usuario2@email.com", "contraseña": "pass2", "nombre": "Ana Gómez"},
+        {"id": 3, "correo": "usuario3@email.com", "contraseña": "pass3", "nombre": "Carlos Ruiz"},
+        {"id": 4, "correo": "usuario4@email.com", "contraseña": "pass4", "nombre": "María López"},
+        {"id": 5, "correo": "usuario5@email.com", "contraseña": "pass5", "nombre": "Pedro Torres"},
+        {"id": 6, "correo": "usuario6@email.com", "contraseña": "pass6", "nombre": "Lucía Díaz"},
+        {"id": 7, "correo": "usuario7@email.com", "contraseña": "pass7", "nombre": "Miguel Castro"},
+        {"id": 8, "correo": "usuario8@email.com", "contraseña": "pass8", "nombre": "Sofía Romero"},
+        {"id": 9, "correo": "usuario9@email.com", "contraseña": "pass9", "nombre": "Javier Herrera"},
+        {"id": 10, "correo": "usuario10@email.com", "contraseña": "pass10", "nombre": "Valentina Silva"}
+    ],
+    "productos":[
+        {"id": 1, "nombre": "Laptop HP", "descripcion": "Laptop 15'' 8GB RAM", "precio": 2500, "cantidad": 10},
+        {"id": 2, "nombre": "Mouse Logitech", "descripcion": "Mouse inalámbrico", "precio": 150, "cantidad": 30},
+        {"id": 3, "nombre": "Teclado Redragon", "descripcion": "Teclado mecánico RGB", "precio": 350, "cantidad": 15},
+        {"id": 4, "nombre": "Monitor Samsung", "descripcion": "Monitor 24'' Full HD", "precio": 1200, "cantidad": 8},
+        {"id": 5, "nombre": "Impresora Epson", "descripcion": "Impresora multifunción", "precio": 900, "cantidad": 5},
+        {"id": 6, "nombre": "Tablet Lenovo", "descripcion": "Tablet 10'' 64GB", "precio": 800, "cantidad": 12},
+        {"id": 7, "nombre": "Auriculares Sony", "descripcion": "Auriculares Bluetooth", "precio": 400, "cantidad": 20},
+        {"id": 8, "nombre": "Disco Duro WD", "descripcion": "HDD 1TB externo", "precio": 500, "cantidad": 18},
+        {"id": 9, "nombre": "Memoria USB Kingston", "descripcion": "USB 64GB", "precio": 80, "cantidad": 50},
+        {"id": 10, "nombre": "Silla Gamer", "descripcion": "Silla ergonómica", "precio": 1100, "cantidad": 7},
+        {"id": 11, "nombre": "Webcam Logitech", "descripcion": "Webcam HD 1080p", "precio": 300, "cantidad": 14},
+        {"id": 12, "nombre": "Router TP-Link", "descripcion": "Router WiFi 5", "precio": 250, "cantidad": 10},
+        {"id": 13, "nombre": "Smartwatch Xiaomi", "descripcion": "Reloj inteligente", "precio": 600, "cantidad": 16},
+        {"id": 14, "nombre": "Cargador Anker", "descripcion": "Cargador rápido USB", "precio": 120, "cantidad": 25},
+        {"id": 15, "nombre": "Proyector Epson", "descripcion": "Proyector HD", "precio": 2000, "cantidad": 3},
+        {"id": 16, "nombre": "Altavoz JBL", "descripcion": "Altavoz Bluetooth", "precio": 350, "cantidad": 22},
+        {"id": 17, "nombre": "Cámara Canon", "descripcion": "Cámara digital 20MP", "precio": 3200, "cantidad": 4},
+        {"id": 18, "nombre": "SSD Kingston", "descripcion": "SSD 480GB", "precio": 700, "cantidad": 11},
+        {"id": 19, "nombre": "Fuente Corsair", "descripcion": "Fuente 650W", "precio": 650, "cantidad": 9},
+        {"id": 20, "nombre": "Tarjeta Gráfica MSI", "descripcion": "GTX 1660 Super", "precio": 4200, "cantidad": 2}
+    ],
+    "clientes":[
+        {"id": 1, "nombre": "Luis Martínez", "telefono": "3001234567", "direccion": "Calle 10 #5-20", "barrio": "Centro", "ciudad": "Bogotá"},
+        {"id": 2, "nombre": "Andrea Torres", "telefono": "3102345678", "direccion": "Carrera 15 #8-30", "barrio": "Chapinero", "ciudad": "Bogotá"},
+        {"id": 3, "nombre": "Camilo Rojas", "telefono": "3203456789", "direccion": "Calle 22 #12-45", "barrio": "Laureles", "ciudad": "Medellín"},
+        {"id": 4, "nombre": "Paula Gómez", "telefono": "3004567890", "direccion": "Carrera 7 #45-60", "barrio": "El Poblado", "ciudad": "Medellín"},
+        {"id": 5, "nombre": "Jorge Ramírez", "telefono": "3115678901", "direccion": "Calle 50 #20-10", "barrio": "San Fernando", "ciudad": "Cali"},
+        {"id": 6, "nombre": "Diana Salazar", "telefono": "3126789012", "direccion": "Carrera 30 #15-25", "barrio": "Granada", "ciudad": "Cali"},
+        {"id": 7, "nombre": "Felipe Castro", "telefono": "3137890123", "direccion": "Calle 80 #60-40", "barrio": "Suba", "ciudad": "Bogotá"},
+        {"id": 8, "nombre": "Laura Herrera", "telefono": "3148901234", "direccion": "Carrera 40 #70-50", "barrio": "El Prado", "ciudad": "Barranquilla"},
+        {"id": 9, "nombre": "Oscar Díaz", "telefono": "3159012345", "direccion": "Calle 100 #30-60", "barrio": "El Rodadero", "ciudad": "Santa Marta"},
+        {"id": 10, "nombre": "Marina López", "telefono": "3160123456", "direccion": "Carrera 5 #25-15", "barrio": "Getsemaní", "ciudad": "Cartagena"}
+    ]
+}
